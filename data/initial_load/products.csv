@@ -1,0 +1,201 @@
+product_id,name,category,price
+PROD001,"Samsung 65"" 4K Smart TV",Electronics,799.99
+PROD002,Apple AirPods Pro,Electronics,249.99
+PROD003,Sony WH-1000XM5 Headphones,Electronics,349.99
+PROD004,Logitech MX Master 3 Mouse,Electronics,99.99
+PROD005,Mechanical Keyboard RGB,Electronics,129.99
+PROD006,"Dell 27"" Monitor IPS",Electronics,379.99
+PROD007,Anker 65W USB-C Charger,Electronics,45.99
+PROD008,Bose SoundLink Speaker,Electronics,149.99
+PROD009,GoPro Hero 12 Black,Electronics,399.99
+PROD010,Ring Video Doorbell Pro,Electronics,249.99
+PROD011,Fitbit Charge 6,Electronics,159.99
+PROD012,iPad Mini 6th Gen,Electronics,499.99
+PROD013,Razer Gaming Headset,Electronics,89.99
+PROD014,TP-Link WiFi 6 Router,Electronics,199.99
+PROD015,Portable Power Bank 20000mAh,Electronics,59.99
+PROD016,Amazon Echo Dot 5th Gen,Electronics,49.99
+PROD017,Webcam 4K Ultra HD,Electronics,119.99
+PROD018,USB-C Hub 7-in-1,Electronics,39.99
+PROD019,Smart Home Security Camera,Electronics,79.99
+PROD020,Wireless Charging Pad,Electronics,29.99
+PROD021,Men's Classic Fit Polo Shirt,Clothing,34.99
+PROD022,Women's Yoga Pants,Clothing,49.99
+PROD023,Levi's 501 Original Jeans,Clothing,69.99
+PROD024,Nike Air Max 270 Sneakers,Clothing,129.99
+PROD025,Adidas Running Jacket,Clothing,89.99
+PROD026,Women's Floral Summer Dress,Clothing,44.99
+PROD027,Men's Wool Sweater,Clothing,59.99
+PROD028,Calvin Klein Boxer Briefs 3-Pack,Clothing,34.99
+PROD029,Women's Leather Handbag,Clothing,119.99
+PROD030,Columbia Rain Jacket,Clothing,149.99
+PROD031,Men's Chino Pants,Clothing,54.99
+PROD032,Women's Sports Bra,Clothing,29.99
+PROD033,Unisex Hoodie Sweatshirt,Clothing,44.99
+PROD034,Men's Dress Shirt Oxford,Clothing,49.99
+PROD035,Women's Ankle Boots,Clothing,89.99
+PROD036,Men's Winter Coat,Clothing,199.99
+PROD037,Kids Graphic T-Shirt,Clothing,19.99
+PROD038,Women's Cardigan Knit,Clothing,54.99
+PROD039,Men's Athletic Shorts,Clothing,27.99
+PROD040,Silk Scarf Floral Print,Clothing,39.99
+PROD041,The Great Gatsby - Fitzgerald,Books,12.99
+PROD042,Atomic Habits - James Clear,Books,16.99
+PROD043,Dune - Frank Herbert,Books,14.99
+PROD044,Python Crash Course 3rd Ed,Books,39.99
+PROD045,The Lean Startup,Books,18.99
+PROD046,Harry Potter Complete Set,Books,89.99
+PROD047,Clean Code - Robert Martin,Books,44.99
+PROD048,The Psychology of Money,Books,19.99
+PROD049,Sapiens - Yuval Noah Harari,Books,17.99
+PROD050,Design Patterns - Gang of Four,Books,54.99
+PROD051,The Alchemist - Paulo Coelho,Books,13.99
+PROD052,Zero to One - Peter Thiel,Books,16.99
+PROD053,Thinking Fast and Slow,Books,17.99
+PROD054,The Art of War,Books,9.99
+PROD055,Node.js Complete Guide,Books,42.99
+PROD056,1984 - George Orwell,Books,11.99
+PROD057,Becoming - Michelle Obama,Books,19.99
+PROD058,The Pragmatic Programmer,Books,49.99
+PROD059,Deep Work - Cal Newport,Books,16.99
+PROD060,A Brief History of Time,Books,14.99
+PROD061,Instant Pot Duo 7-in-1,Home & Kitchen,99.99
+PROD062,Cuisinart Coffee Maker 12-Cup,Home & Kitchen,79.99
+PROD063,KitchenAid Stand Mixer,Home & Kitchen,399.99
+PROD064,Ninja Air Fryer XL,Home & Kitchen,129.99
+PROD065,"Cast Iron Skillet 12""",Home & Kitchen,44.99
+PROD066,Vitamix Blender 5200,Home & Kitchen,449.99
+PROD067,Dyson V15 Vacuum Cleaner,Home & Kitchen,649.99
+PROD068,Nespresso Vertuo Coffee Machine,Home & Kitchen,199.99
+PROD069,Bamboo Cutting Board Set,Home & Kitchen,34.99
+PROD070,Stainless Steel Cookware Set 10pc,Home & Kitchen,189.99
+PROD071,Memory Foam Pillow,Home & Kitchen,49.99
+PROD072,Egyptian Cotton Bed Sheets King,Home & Kitchen,79.99
+PROD073,Robot Vacuum Cleaner Auto,Home & Kitchen,299.99
+PROD074,Toaster Oven Countertop,Home & Kitchen,89.99
+PROD075,Silicone Baking Mat Set,Home & Kitchen,19.99
+PROD076,Stainless Steel Water Bottle,Home & Kitchen,24.99
+PROD077,Knife Block Set 15-Piece,Home & Kitchen,129.99
+PROD078,Weighted Blanket 15lb,Home & Kitchen,59.99
+PROD079,Dish Rack Stainless Steel,Home & Kitchen,34.99
+PROD080,French Press Coffee Maker,Home & Kitchen,29.99
+PROD081,Yoga Mat Non-Slip 6mm,Sports,29.99
+PROD082,Resistance Bands Set 5-Pack,Sports,19.99
+PROD083,Adjustable Dumbbell Set,Sports,249.99
+PROD084,Foam Roller Deep Tissue,Sports,24.99
+PROD085,Cycling Helmet Adult,Sports,59.99
+PROD086,Tennis Racket Pro,Sports,89.99
+PROD087,Basketball Official Size 7,Sports,39.99
+PROD088,Running Shoes Cushion,Sports,119.99
+PROD089,Gym Bag Large Duffel,Sports,44.99
+PROD090,Jump Rope Speed Cable,Sports,14.99
+PROD091,Pull-Up Bar Doorframe,Sports,34.99
+PROD092,Swim Goggles Anti-Fog,Sports,16.99
+PROD093,Soccer Cleats Adult,Sports,79.99
+PROD094,Golf Club Set Beginner,Sports,349.99
+PROD095,Camping Tent 4-Person,Sports,179.99
+PROD096,Hiking Backpack 50L,Sports,129.99
+PROD097,Trekking Poles Aluminum,Sports,49.99
+PROD098,Sleeping Bag -10C,Sports,89.99
+PROD099,Protein Shaker Bottle,Sports,12.99
+PROD100,Boxing Gloves Training,Sports,39.99
+PROD101,"LG 55"" OLED TV",Electronics,1299.99
+PROD102,Nintendo Switch OLED,Electronics,349.99
+PROD103,Sony PlayStation 5,Electronics,499.99
+PROD104,Xbox Series X,Electronics,499.99
+PROD105,Canon EOS Rebel Camera,Electronics,749.99
+PROD106,Kindle Paperwhite,Electronics,139.99
+PROD107,Apple Watch Series 9,Electronics,399.99
+PROD108,JBL Charge 5 Speaker,Electronics,179.99
+PROD109,External SSD 1TB Samsung,Electronics,109.99
+PROD110,Smart Light Bulb Pack 4,Electronics,39.99
+PROD111,Men's Slim Fit Suit Jacket,Clothing,179.99
+PROD112,Women's Trench Coat,Clothing,159.99
+PROD113,Denim Jacket Classic Blue,Clothing,74.99
+PROD114,Women's Pleated Skirt,Clothing,39.99
+PROD115,Men's Formal Dress Shoes,Clothing,129.99
+PROD116,Swimsuit Women One Piece,Clothing,54.99
+PROD117,Men's Board Shorts,Clothing,34.99
+PROD118,Fleece Blanket Throw,Clothing,27.99
+PROD119,Beanie Hat Winter,Clothing,14.99
+PROD120,Leather Belt Men's,Clothing,29.99
+PROD121,Educated - Tara Westover,Books,17.99
+PROD122,The Midnight Library,Books,15.99
+PROD123,Where the Crawdads Sing,Books,16.99
+PROD124,The Four Agreements,Books,12.99
+PROD125,Outliers - Malcolm Gladwell,Books,16.99
+PROD126,Start with Why - Simon Sinek,Books,17.99
+PROD127,Never Split the Difference,Books,18.99
+PROD128,The 7 Habits of Highly Effective People,Books,16.99
+PROD129,Good to Great - Jim Collins,Books,19.99
+PROD130,Rich Dad Poor Dad,Books,14.99
+PROD131,Instant Pot Air Fryer Lid,Home & Kitchen,59.99
+PROD132,Electric Kettle 1.7L,Home & Kitchen,39.99
+PROD133,Cordless Handheld Vacuum,Home & Kitchen,89.99
+PROD134,Over Door Organizer,Home & Kitchen,22.99
+PROD135,Ceramic Non-Stick Pan Set,Home & Kitchen,79.99
+PROD136,Comforter Set King Size,Home & Kitchen,99.99
+PROD137,Bath Towel Set 6-Piece,Home & Kitchen,49.99
+PROD138,Candle Set Soy Wax,Home & Kitchen,27.99
+PROD139,Wall Clock Modern Silent,Home & Kitchen,24.99
+PROD140,Picture Frame Set 4x6,Home & Kitchen,19.99
+PROD141,Exercise Bike Stationary,Sports,399.99
+PROD142,Treadmill Folding Home,Sports,799.99
+PROD143,Kettlebell 20kg Cast Iron,Sports,49.99
+PROD144,Ab Roller Wheel Pro,Sports,18.99
+PROD145,Badminton Set Racket,Sports,34.99
+PROD146,Volleyball Official Size,Sports,29.99
+PROD147,Ski Goggles UV Protection,Sports,59.99
+PROD148,Fishing Rod Spinning,Sports,69.99
+PROD149,Kayak Paddle Aluminum,Sports,79.99
+PROD150,Mountain Bike Helmet,Sports,89.99
+PROD151,Samsung Galaxy S24 Ultra,Electronics,1199.99
+PROD152,Google Pixel 8 Pro,Electronics,999.99
+PROD153,OnePlus 12 Smartphone,Electronics,699.99
+PROD154,Mechanical Pencil Set,Electronics,-10
+PROD155,USB Flash Drive 256GB,Electronics,22.99
+PROD156,HDMI Cable 4K 6ft,Electronics,12.99
+PROD157,Laptop Stand Adjustable,Electronics,49.99
+PROD158,Monitor Arm Single,Electronics,69.99
+PROD159,Cable Management Box,Electronics,19.99
+PROD160,Screen Cleaning Kit,Electronics,9.99
+PROD161,Women's Activewear Set,Clothing,69.99
+PROD162,Men's Swim Trunks,Clothing,29.99
+PROD163,Thermal Underwear Set,Clothing,39.99
+PROD164,Rain Boots Women's,Clothing,54.99
+PROD165,Backpack School 30L,Clothing,44.99
+PROD166,Sunglasses Polarized,Clothing,49.99
+PROD167,Watch Men's Chronograph,Clothing,199.99
+PROD168,Wallet Men's Leather Slim,Clothing,39.99
+PROD169,Tote Bag Canvas Large,Clothing,24.99
+PROD170,Compression Socks 3-Pack,Clothing,19.99
+PROD171,JavaScript The Good Parts,Books,29.99
+PROD172,The Innovators - Walter Isaacson,Books,18.99
+PROD173,Meditations - Marcus Aurelius,Books,8.99
+PROD174,The Hard Thing About Hard Things,Books,19.99
+PROD175,Zero to One Workbook,Books,
+PROD176,Factfulness - Hans Rosling,Books,16.99
+PROD177,The Subtle Art of Not Giving a F*ck,Books,15.99
+PROD178,Quiet - Susan Cain,Books,16.99
+PROD179,Thinking in Bets,Books,17.99
+PROD180,Range - David Epstein,Books,18.99
+PROD181,Sous Vide Precision Cooker,Home & Kitchen,179.99
+PROD182,Marble Rolling Pin,Home & Kitchen,24.99
+PROD183,Spice Rack Organizer,Home & Kitchen,29.99
+PROD184,Salad Spinner Large,Home & Kitchen,29.99
+PROD185,Mandoline Slicer Pro,Home & Kitchen,49.99
+PROD186,Dutch Oven 6 Quart,Home & Kitchen,89.99
+PROD187,"Wok Carbon Steel 14""",Home & Kitchen,44.99
+PROD188,Food Storage Container Set,Home & Kitchen,34.99
+PROD189,Herb Garden Kit Indoor,Home & Kitchen,39.99
+PROD190,Laundry Hamper Collapsible,Home & Kitchen,-5
+PROD191,Balance Board Wooden,Sports,39.99
+PROD192,Lacrosse Ball Set 3-Pack,Sports,14.99
+PROD193,Speed Bag Platform Boxing,Sports,89.99
+PROD194,Agility Ladder Training,Sports,19.99
+PROD195,Archery Target Set,Sports,59.99
+PROD196,Snowboard Boots Adult,Sports,199.99
+PROD197,Surfboard Leash 10ft,Sports,19.99
+PROD198,Rock Climbing Shoes,Sports,129.99
+PROD199,Badminton Shuttlecocks 12-Pack,Sports,12.99
+PROD200,Pilates Ring Circle,Sports,22.99
